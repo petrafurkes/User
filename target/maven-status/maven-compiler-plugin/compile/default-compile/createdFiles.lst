@@ -1,0 +1,6 @@
+com\mycompany\usernew\model\User.class
+com\mycompany\usernew\services\UserService.class
+com\mycompany\usernew\model\CreditCard.class
+com\mycompany\usernew\JAXRSConfiguration.class
+com\mycompany\usernew\resources\UserResources.class
+com\mycompany\usernew\resources\JavaEE8Resource.class
